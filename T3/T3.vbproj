@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D548F27B-70F2-4C85-8EBB-FFF726C67520}</ProjectGuid>
+    <ProjectGuid>{CD707300-83CA-46CD-B911-B4D7446F3272}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <StartupObject>T3.Module1</StartupObject>
     <RootNamespace>T3</RootNamespace>
@@ -69,7 +69,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\L6th-Assingments\T3\TaskA.vb" />
+    <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>

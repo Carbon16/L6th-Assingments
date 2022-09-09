@@ -1,0 +1,11 @@
+D:\git\L6th-Assingments\T3\obj\Debug\T3.vbproj.AssemblyReference.cache
+D:\git\L6th-Assingments\T3\obj\Debug\T3.Resources.resources
+D:\git\L6th-Assingments\T3\obj\Debug\T3.vbproj.GenerateResource.cache
+D:\git\L6th-Assingments\T3\obj\Debug\T3.vbproj.CoreCompileInputs.cache
+D:\git\L6th-Assingments\T3\bin\Debug\T3.exe.config
+D:\git\L6th-Assingments\T3\bin\Debug\T3.exe
+D:\git\L6th-Assingments\T3\bin\Debug\T3.pdb
+D:\git\L6th-Assingments\T3\bin\Debug\T3.xml
+D:\git\L6th-Assingments\T3\obj\Debug\T3.exe
+D:\git\L6th-Assingments\T3\obj\Debug\T3.xml
+D:\git\L6th-Assingments\T3\obj\Debug\T3.pdb
