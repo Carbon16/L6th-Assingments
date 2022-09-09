@@ -1,7 +1,10 @@
-﻿Module Module1
+﻿Imports Console
 
-    Sub ProblemA()
-        hello
+Module Module1
+
+    Sub TaskA()
+
+
     End Sub
 
 End Module
