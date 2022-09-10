@@ -1,0 +1,11 @@
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\Selection test\bin\Debug\Selection test.exe.config
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\Selection test\bin\Debug\Selection test.exe
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\Selection test\bin\Debug\Selection test.pdb
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\Selection test\bin\Debug\Selection test.xml
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\Selection test\obj\Debug\Selection test.vbproj.AssemblyReference.cache
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\Selection test\obj\Debug\Selection_test.Resources.resources
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\Selection test\obj\Debug\Selection test.vbproj.GenerateResource.cache
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\Selection test\obj\Debug\Selection test.vbproj.CoreCompileInputs.cache
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\Selection test\obj\Debug\Selection test.exe
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\Selection test\obj\Debug\Selection test.xml
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\Selection test\obj\Debug\Selection test.pdb
