@@ -9,3 +9,14 @@ D:\git\L6th-Assingments\T3\bin\Debug\T3.xml
 D:\git\L6th-Assingments\T3\obj\Debug\T3.exe
 D:\git\L6th-Assingments\T3\obj\Debug\T3.xml
 D:\git\L6th-Assingments\T3\obj\Debug\T3.pdb
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\T3\bin\Debug\T3.exe.config
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\T3\bin\Debug\T3.exe
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\T3\bin\Debug\T3.pdb
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\T3\bin\Debug\T3.xml
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\T3\obj\Debug\T3.vbproj.AssemblyReference.cache
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\T3\obj\Debug\T3.Resources.resources
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\T3\obj\Debug\T3.vbproj.GenerateResource.cache
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\T3\obj\Debug\T3.vbproj.CoreCompileInputs.cache
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\T3\obj\Debug\T3.exe
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\T3\obj\Debug\T3.xml
+C:\Users\leo.skingley2017\source\repos\L6th-Assingments\T3\obj\Debug\T3.pdb
