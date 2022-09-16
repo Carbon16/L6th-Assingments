@@ -1,0 +1,11 @@
+D:\git\L6th-Assingments\fun with strings\obj\Debug\fun with strings.vbproj.AssemblyReference.cache
+D:\git\L6th-Assingments\fun with strings\obj\Debug\fun_with_strings.Resources.resources
+D:\git\L6th-Assingments\fun with strings\obj\Debug\fun with strings.vbproj.GenerateResource.cache
+D:\git\L6th-Assingments\fun with strings\obj\Debug\fun with strings.vbproj.CoreCompileInputs.cache
+D:\git\L6th-Assingments\fun with strings\bin\Debug\fun with strings.exe.config
+D:\git\L6th-Assingments\fun with strings\bin\Debug\fun with strings.exe
+D:\git\L6th-Assingments\fun with strings\bin\Debug\fun with strings.pdb
+D:\git\L6th-Assingments\fun with strings\bin\Debug\fun with strings.xml
+D:\git\L6th-Assingments\fun with strings\obj\Debug\fun with strings.exe
+D:\git\L6th-Assingments\fun with strings\obj\Debug\fun with strings.xml
+D:\git\L6th-Assingments\fun with strings\obj\Debug\fun with strings.pdb

@@ -1,0 +1,11 @@
+D:\git\L6th-Assingments\Iteration\bin\Debug\Iteration.exe.config
+D:\git\L6th-Assingments\Iteration\bin\Debug\Iteration.exe
+D:\git\L6th-Assingments\Iteration\bin\Debug\Iteration.pdb
+D:\git\L6th-Assingments\Iteration\bin\Debug\Iteration.xml
+D:\git\L6th-Assingments\Iteration\obj\Debug\Iteration.vbproj.AssemblyReference.cache
+D:\git\L6th-Assingments\Iteration\obj\Debug\Iteration.Resources.resources
+D:\git\L6th-Assingments\Iteration\obj\Debug\Iteration.vbproj.GenerateResource.cache
+D:\git\L6th-Assingments\Iteration\obj\Debug\Iteration.vbproj.CoreCompileInputs.cache
+D:\git\L6th-Assingments\Iteration\obj\Debug\Iteration.exe
+D:\git\L6th-Assingments\Iteration\obj\Debug\Iteration.xml
+D:\git\L6th-Assingments\Iteration\obj\Debug\Iteration.pdb
