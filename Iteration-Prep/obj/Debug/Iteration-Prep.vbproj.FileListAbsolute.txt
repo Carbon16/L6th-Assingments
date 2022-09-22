@@ -1,0 +1,11 @@
+D:\git\L6th-Assingments\Iteration-Prep\bin\Debug\Iteration-Prep.exe.config
+D:\git\L6th-Assingments\Iteration-Prep\bin\Debug\Iteration-Prep.exe
+D:\git\L6th-Assingments\Iteration-Prep\bin\Debug\Iteration-Prep.pdb
+D:\git\L6th-Assingments\Iteration-Prep\bin\Debug\Iteration-Prep.xml
+D:\git\L6th-Assingments\Iteration-Prep\obj\Debug\Iteration_Prep.Resources.resources
+D:\git\L6th-Assingments\Iteration-Prep\obj\Debug\Iteration-Prep.vbproj.GenerateResource.cache
+D:\git\L6th-Assingments\Iteration-Prep\obj\Debug\Iteration-Prep.vbproj.CoreCompileInputs.cache
+D:\git\L6th-Assingments\Iteration-Prep\obj\Debug\Iteration-Prep.exe
+D:\git\L6th-Assingments\Iteration-Prep\obj\Debug\Iteration-Prep.xml
+D:\git\L6th-Assingments\Iteration-Prep\obj\Debug\Iteration-Prep.pdb
+D:\git\L6th-Assingments\Iteration-Prep\obj\Debug\Iteration-Prep.vbproj.AssemblyReference.cache

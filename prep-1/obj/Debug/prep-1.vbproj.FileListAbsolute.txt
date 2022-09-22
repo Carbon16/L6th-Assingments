@@ -1,0 +1,11 @@
+D:\git\L6th-Assingments\prep-1\obj\Debug\prep-1.vbproj.AssemblyReference.cache
+D:\git\L6th-Assingments\prep-1\obj\Debug\prep_1.Resources.resources
+D:\git\L6th-Assingments\prep-1\obj\Debug\prep-1.vbproj.GenerateResource.cache
+D:\git\L6th-Assingments\prep-1\obj\Debug\prep-1.vbproj.CoreCompileInputs.cache
+D:\git\L6th-Assingments\prep-1\bin\Debug\prep-1.exe.config
+D:\git\L6th-Assingments\prep-1\bin\Debug\prep-1.exe
+D:\git\L6th-Assingments\prep-1\bin\Debug\prep-1.pdb
+D:\git\L6th-Assingments\prep-1\bin\Debug\prep-1.xml
+D:\git\L6th-Assingments\prep-1\obj\Debug\prep-1.exe
+D:\git\L6th-Assingments\prep-1\obj\Debug\prep-1.xml
+D:\git\L6th-Assingments\prep-1\obj\Debug\prep-1.pdb
