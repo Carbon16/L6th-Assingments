@@ -1,0 +1,11 @@
+D:\git\L6th-Assingments\JustPractice\obj\Debug\JustPractice.vbproj.AssemblyReference.cache
+D:\git\L6th-Assingments\JustPractice\obj\Debug\JustPractice.Resources.resources
+D:\git\L6th-Assingments\JustPractice\obj\Debug\JustPractice.vbproj.GenerateResource.cache
+D:\git\L6th-Assingments\JustPractice\obj\Debug\JustPractice.vbproj.CoreCompileInputs.cache
+D:\git\L6th-Assingments\JustPractice\bin\Debug\JustPractice.exe.config
+D:\git\L6th-Assingments\JustPractice\bin\Debug\JustPractice.exe
+D:\git\L6th-Assingments\JustPractice\bin\Debug\JustPractice.pdb
+D:\git\L6th-Assingments\JustPractice\bin\Debug\JustPractice.xml
+D:\git\L6th-Assingments\JustPractice\obj\Debug\JustPractice.exe
+D:\git\L6th-Assingments\JustPractice\obj\Debug\JustPractice.xml
+D:\git\L6th-Assingments\JustPractice\obj\Debug\JustPractice.pdb
