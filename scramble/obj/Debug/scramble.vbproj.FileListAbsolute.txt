@@ -1,0 +1,12 @@
+E:\git\L6th-Assingments\scramble\bin\Debug\scramble.exe.config
+E:\git\L6th-Assingments\scramble\bin\Debug\scramble.exe
+E:\git\L6th-Assingments\scramble\bin\Debug\scramble.pdb
+E:\git\L6th-Assingments\scramble\bin\Debug\scramble.xml
+E:\git\L6th-Assingments\scramble\obj\Debug\scramble.vbproj.AssemblyReference.cache
+E:\git\L6th-Assingments\scramble\obj\Debug\scramble.vbproj.SuggestedBindingRedirects.cache
+E:\git\L6th-Assingments\scramble\obj\Debug\scramble.Resources.resources
+E:\git\L6th-Assingments\scramble\obj\Debug\scramble.vbproj.GenerateResource.cache
+E:\git\L6th-Assingments\scramble\obj\Debug\scramble.vbproj.CoreCompileInputs.cache
+E:\git\L6th-Assingments\scramble\obj\Debug\scramble.exe
+E:\git\L6th-Assingments\scramble\obj\Debug\scramble.xml
+E:\git\L6th-Assingments\scramble\obj\Debug\scramble.pdb

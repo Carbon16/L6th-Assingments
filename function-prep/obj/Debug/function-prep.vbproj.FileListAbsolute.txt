@@ -1,0 +1,11 @@
+D:\git\L6th-Assingments\function-prep\bin\Debug\function-prep.exe.config
+D:\git\L6th-Assingments\function-prep\bin\Debug\function-prep.exe
+D:\git\L6th-Assingments\function-prep\bin\Debug\function-prep.pdb
+D:\git\L6th-Assingments\function-prep\bin\Debug\function-prep.xml
+D:\git\L6th-Assingments\function-prep\obj\Debug\function-prep.vbproj.AssemblyReference.cache
+D:\git\L6th-Assingments\function-prep\obj\Debug\function_prep.Resources.resources
+D:\git\L6th-Assingments\function-prep\obj\Debug\function-prep.vbproj.GenerateResource.cache
+D:\git\L6th-Assingments\function-prep\obj\Debug\function-prep.vbproj.CoreCompileInputs.cache
+D:\git\L6th-Assingments\function-prep\obj\Debug\function-prep.exe
+D:\git\L6th-Assingments\function-prep\obj\Debug\function-prep.xml
+D:\git\L6th-Assingments\function-prep\obj\Debug\function-prep.pdb
